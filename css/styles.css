@@ -1,0 +1,57 @@
+/* linea de comentario */
+
+/* estilos del body */
+
+body{
+    background-image: url("../img/caja-simpsons.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+/* estilos de header */
+header {
+    background-color: tomato;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* estilos del menu */
+
+header nav{
+    background-color: red;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    color: seashell;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: seashell;
+}
+
+
+/* estilos de main */
+main  .colorNuevo{
+    text-align: center;
+    text-decoration: underline;
+    color: tomato;
+}
+
+main p{
+    text-align: center;
+}
+
+main .parrafoDos{
+    color: red;
+}
